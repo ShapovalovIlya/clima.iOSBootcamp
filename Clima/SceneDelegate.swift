@@ -3,6 +3,7 @@
 //  Clima
 //
 //  Created by Angela Yu on 01/09/2019.
+//  Co-creator Ilia Shapovalov 20/04/2022
 //  Copyright © 2019 App Brewery. All rights reserved.
 //
 
